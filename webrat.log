@@ -1,0 +1,128 @@
+# Logfile created on 2014-10-09 07:55:51 -0400 by logger.rb/44203
+D, [2014-10-09T07:55:51.736046 #3122] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-09T07:58:36.742052 #3138] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-09T08:00:17.180359 #3205] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-09T08:05:39.248165 #3257] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-09T08:07:46.421438 #3267] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-09T08:10:08.007988 #3283] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-09T08:11:41.371956 #3289] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T22:20:50.704278 #27434] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T22:20:50.817944 #27434] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T22:26:17.307057 #27544] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T22:26:17.330424 #27544] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:01:34.856848 #28275] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:01:34.878680 #28275] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:05:56.143935 #28332] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:22:43.705027 #28771] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:23:17.202945 #28779] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:23:27.760812 #28794] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:31:19.156843 #28901] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:32:30.980475 #28917] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:34:20.560328 #28946] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:35:13.569686 #28962] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:36:46.334235 #28978] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:40:40.455292 #28999] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:41:01.621465 #29023] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:41:25.866833 #29039] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:41:40.579121 #29046] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:42:01.888901 #29062] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:42:13.367766 #29077] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:48:42.038905 #29339] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-15T23:59:40.951666 #29502] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:05:33.171595 #29798] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:05:41.969192 #29812] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:05:53.848769 #29820] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:06:34.864914 #29844] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:07:16.764757 #29860] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:07:23.386505 #29868] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:07:40.941621 #29884] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:08:12.580671 #29900] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:11:52.975708 #29971] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:12:21.642857 #29987] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:14:06.269383 #30006] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:15:04.398249 #30021] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:15:04.422753 #30021] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:15:17.372312 #30036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:15:23.061544 #30050] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:15:23.085787 #30050] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:24:11.098700 #30129] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:24:11.122908 #30129] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:24:57.355869 #30149] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:24:57.379821 #30149] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:27:23.243889 #30174] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:27:23.267668 #30174] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:28:18.389036 #30198] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:28:18.412908 #30198] DEBUG -- : REQUESTING PAGE: POS /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:28:38.754989 #30213] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:28:38.778973 #30213] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:29:07.592591 #30230] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:29:07.621788 #30230] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:29:30.083286 #30237] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:29:30.107449 #30237] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:30:00.275180 #30331] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:30:00.299893 #30331] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:30:07.951143 #30343] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:30:07.975147 #30343] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:34:25.902139 #30469] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:34:25.926797 #30469] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T00:44:12.832896 #30677] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T00:44:12.857037 #30677] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:18:59.952574 #30996] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:18:59.978670 #30996] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:18:59.984669 #30996] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-10-16T01:20:21.920192 #31021] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:20:21.945034 #31021] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:20:21.952070 #31021] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-10-16T01:22:22.456586 #31069] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:22:22.480704 #31069] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:22:22.487478 #31069] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-10-16T01:26:43.485953 #31104] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:26:43.510439 #31104] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:26:43.516992 #31104] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-10-16T01:27:02.276287 #31233] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:27:02.300383 #31233] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:27:02.307014 #31233] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-10-16T01:28:40.144490 #31249] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:28:40.168831 #31249] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:29:13.110358 #31266] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:29:13.135032 #31266] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:29:13.142009 #31266] DEBUG -- : REQUESTING PAGE: POST /juego with {} and HTTP headers {}
+D, [2014-10-16T01:39:18.946648 #31445] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:39:18.970817 #31445] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:40:53.294237 #31473] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:40:53.318345 #31473] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:41:26.491973 #31491] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:41:26.516029 #31491] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:46:28.712367 #31587] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:46:48.877642 #31602] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:46:48.901740 #31602] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:48:44.063052 #31689] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:48:44.087909 #31689] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:50:34.063536 #31720] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:50:34.088464 #31720] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:51:17.044400 #31737] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:51:17.070305 #31737] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:54:14.037539 #31751] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:54:14.061629 #31751] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-16T01:54:35.374606 #31758] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-16T01:54:35.398832 #31758] DEBUG -- : REQUESTING PAGE: POST /juego with {"jugador1"=>"Pedro", "jugador2"=>"Pedro", "aceptar"=>"Aceptar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-30T00:08:56.803141 #6043] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T00:13:22.930084 #6090] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T00:14:49.708852 #6124] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T00:18:08.109489 #6211] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T00:19:33.734405 #6247] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T00:19:54.194273 #6263] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T00:22:10.526708 #6293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:36:06.076142 #4317] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:37:13.899363 #4350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:37:13.926524 #4350] DEBUG -- : REQUESTING PAGE: GET /secreto with {} and HTTP headers {}
+D, [2014-10-30T01:40:17.301907 #4377] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:40:17.326406 #4377] DEBUG -- : REQUESTING PAGE: GET /secreto with {} and HTTP headers {}
+D, [2014-10-30T01:40:30.398942 #4398] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:40:30.424148 #4398] DEBUG -- : REQUESTING PAGE: GET /secreto with {} and HTTP headers {}
+D, [2014-10-30T01:42:04.470378 #4423] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:42:04.498085 #4423] DEBUG -- : REQUESTING PAGE: GET /secreto with {} and HTTP headers {}
+D, [2014-10-30T01:42:39.240626 #4439] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:42:39.263165 #4439] DEBUG -- : REQUESTING PAGE: GET /secreto with {} and HTTP headers {}
+D, [2014-10-30T01:44:13.212297 #4456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T01:44:13.234958 #4456] DEBUG -- : REQUESTING PAGE: GET /secreto with {} and HTTP headers {}
