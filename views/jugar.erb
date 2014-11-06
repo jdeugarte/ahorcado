@@ -1,0 +1,9 @@
+<h1>Intentos restantes: <%= @intentos%></h1>
+
+<form action="/jugar" method="post">
+<input type="text" name="letra" maxlength="1">
+<input type="hidden" name="nombre" value=<%=@nombre%>>
+<button>Jugar</button>
+</form>
+
+<button>Pista</button>
