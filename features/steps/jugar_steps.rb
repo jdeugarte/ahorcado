@@ -13,10 +13,24 @@ When(/^lleno el campo "(.*?)" con "(.*?)" y apreto "(.*?)"$/) do |campo, letra, 
   click_button(boton)	
 end
 
+When(/^lleno el campo "(.*?)" con "(.*?)", apreto "(.*?)" y repito (\d+) veces$/) do |campo, letra, boton, numero|
+  veces=0
+  while veces<numero.to_i do
+    fill_in(campo, :with => letra)
+    click_button(boton)
+    veces+=1 
+  end
+end
+
+
 Then(/^deberia ver que tengo "(.*?)"$/) do |intentos|
   last_response.body.should =~ /Intentos restantes: #{intentos}/m
 end
 
 Then(/^intentos y la cadena "(.*?)"$/) do |cadena|
   last_response.body.should =~ /#{cadena}/m
+end
+
+Then(/^deberia ver el mensaje "(.*?)"$/) do |mensaje|
+  last_response.body.should =~ /#{mensaje}/m
 end
