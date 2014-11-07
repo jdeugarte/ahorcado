@@ -13,15 +13,25 @@ class Ahorcado
 	attr_accessor :intentos,:palabra ,:nombre,:palabra_aux,:letras_acertadas
 
 	def jugar(letra)
+		aux=@palabra.split('')
 		if letra
-			if !@palabra.include? letra
+			if letra=='pista'
 				@intentos-=1
+				aux.each do |char|
+				if !@letras_acertadas.include? (char)
+					@letras_acertadas.push (char)
+					break
+				end
+			end
+			elsif !@palabra.include? letra
+				@intentos-=1
+
 			else
 				@letras_acertadas.push(letra)
 			end
+
 		end
 		@palabra_aux=""
-		aux=@palabra.split('')
 		aux.each do |char|
 			if @letras_acertadas.include?(char)
 				@palabra_aux<<char
@@ -66,3 +76,4 @@ post '/jugar' do
 	 	end
 end
 
+	

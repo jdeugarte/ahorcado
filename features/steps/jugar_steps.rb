@@ -22,6 +22,11 @@ When(/^lleno el campo "(.*?)" con "(.*?)", apreto "(.*?)" y repito (\d+) veces$/
   end
 end
 
+When(/^apreto "(.*?)"$/) do |pista|
+  click_button(pista)
+end
+
+
 
 Then(/^deberia ver que tengo "(.*?)"$/) do |intentos|
   last_response.body.should =~ /Intentos restantes: #{intentos}/m

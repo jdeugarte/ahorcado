@@ -11,6 +11,12 @@ Feature: Jugar
 	Then deberia ver que tengo "5" 
 	Then intentos y la cadena "_o_o"
 
+	Scenario: pedir pista
+	Given que que ingrese en la pagina "/secreto" la palabra "loco" en el campo "palabra" y apreto el boton "Anadir" y que luego me encuentro en la pagina "/" e ingreso el nombre "Jorge" en el campo "nombre" y apreto el boton "Jugar!" y tengo "5" intentos
+	When apreto "Pista"
+	Then deberia ver que tengo "4" 
+	Then intentos y la cadena "l___"
+
 	Scenario: Ganar
 	Given que que ingrese en la pagina "/secreto" la palabra "l" en el campo "palabra" y apreto el boton "Anadir" y que luego me encuentro en la pagina "/" e ingreso el nombre "Jorge" en el campo "nombre" y apreto el boton "Jugar!" y tengo "5" intentos
 	When lleno el campo "letra" con "l" y apreto "Jugar"

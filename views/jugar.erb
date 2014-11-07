@@ -4,7 +4,11 @@
 <form action="/jugar" method="post">
 <input type="text" name="letra" maxlength="1">
 <input type="hidden" name="nombre" value=<%=@nombre%>>
-<button>Jugar</button>
+<button type="submit">Jugar</button>
 </form>
-
-<button>Pista</button>
+<form action="/jugar" method="post">
+<input type="hidden" name="letra" value="pista">
+<input type="hidden" name="pista" value="pista">
+<input type="hidden" name="nombre" value=<%=@nombre%>>
+	<button type="submit">Pista</button>
+</form>
