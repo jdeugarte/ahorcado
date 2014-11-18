@@ -2,6 +2,7 @@ require 'sinatra'
 class Ahorcado 
 
 	def initialize
+		
 
 	end
 
