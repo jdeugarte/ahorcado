@@ -44,9 +44,11 @@ class Ahorcado
 	end
 end
 
+ganadores = []
 ahorcado=Ahorcado.new
 
 get '/' do
+	@vec=ganadores
 	ahorcado.inicializar
 	erb :bienvenida
 end
@@ -71,7 +73,9 @@ post '/jugar' do
 			@palabra=ahorcado.palabra
 	 		erb :perdiste
 		elsif @palabra==ahorcado.palabra
+			ganadores.push([@nombre,@palabra])
 			erb :ganaste
+			
 		else
 	 		erb :jugar
 	 	end

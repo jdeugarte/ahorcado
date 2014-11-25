@@ -1,7 +1,24 @@
 <h2>Bienvenido al juego del ahorcado!</h2>
 
 <img src="/ahorcado.jpg">
+
+<h3>Ganadores</h3>
+<table>
+	<tr>
+		<td> Nombre </td>
+		<td> Palabra </td>
+	</tr>
+	<% @vec.each do |ganador| %>
+		<tr>
+			<td> <%= ganador[0] %> </td>
+			<td><%= ganador[1] %></td>
+		</tr>
+	<% end %>
+</table>
+
+
 <form action="/jugar" method="post">
 	<input type="text" name="nombre">
 	<button type="submit" name="jugar">Jugar!</button>
 </form>
+
