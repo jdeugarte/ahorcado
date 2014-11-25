@@ -16,3 +16,17 @@ Then(/^los ganadores:$/) do |table|
   	  last_response.body.should =~ /#{fila[1]}/m
   end
 end
+
+Given(/^que lleno la palabra secreta "(.*?)", juego con el nombre "(.*?)" y gano$/) do |palabra, nombre|
+	visit '/secreto'
+	fill_in('palabra', :with => palabra)
+	click_button("Anadir")
+	visit '/'
+	fill_in('nombre', :with => nombre)
+	click_button("Jugar!")
+	palabra.split('').uniq.each do |letra|
+		fill_in('letra', :with => letra)
+		click_button("Jugar")
+	end
+	visit '/'
+end
