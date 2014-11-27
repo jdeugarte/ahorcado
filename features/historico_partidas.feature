@@ -44,13 +44,13 @@ Feature: historico de partidas
 
 	Given que lleno la palabra secreta "chau", juego con el nombre "Pedro" y gano
 
-	Given que lleno la palabra secreta "lampara", juego con el nombre "Sergio" y gano
+	Given que lleno la palabra secreta "lampara", juego con el nombre "Paco" y gano
 
 	And que me encuentro en "/"
 	
 	Then los ganadores:
 	| Nombre | Palabra|
-	| Sergio | lampara|
+	| Paco   | lampara|
 	| Pedro  | chau   |
 	| Pepe   | hola   |
 	
