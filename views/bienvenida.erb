@@ -8,11 +8,15 @@
 		<td> Nombre </td>
 		<td> Palabra </td>
 	</tr>
+	<% i=0 %>
 	<% @vec.each do |ganador| %>
-		<tr>
-			<td> <%= ganador[0] %> </td>
-			<td><%= ganador[1] %></td>
-		</tr>
+		<% if i < 4 %>
+			<tr>
+				<td> <%= ganador[0] %> </td>
+				<td> <%= ganador[1] %> </td>
+			</tr>
+			<% i+=1 %>
+		<% end %>
 	<% end %>
 </table>
 

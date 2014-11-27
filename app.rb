@@ -73,7 +73,7 @@ post '/jugar' do
 			@palabra=ahorcado.palabra
 	 		erb :perdiste
 		elsif @palabra==ahorcado.palabra
-			ganadores.push([@nombre,@palabra])
+			ganadores.unshift([@nombre,@palabra])
 			erb :ganaste
 			
 		else
